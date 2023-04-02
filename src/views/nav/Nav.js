@@ -19,7 +19,7 @@ const Nav = () => {
                     <div className='center-banner'>
                         <div className='child-banner'><Link href='/' underline="none" color="inherit">Mua bán nhà đất</Link>
                         </div>
-                        <div className='child-banner'>Cho thuê nhà đất
+                        <div className='child-banner'><Link href='/project' underline="none" color="inherit">Cho thuê nhà đất</Link>
                         </div>
                         <div className='child-banner'><Link href='/project' underline="none" color="inherit">Dự án</Link>
                         </div>
